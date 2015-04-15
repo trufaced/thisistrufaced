@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Oleose - Mobile App Landing Page
 
 Oleose is free bootstrap Bootstrap 3 template with eye catching fully responsive design for any app profissional landing page. Template comes with developer friendly and easy to customizable code. It works on all main web browsers 'IE8+', tablets and phones.
@@ -42,3 +43,6 @@ All demos and examples, whether in a code project’s repository or displayed on
 
 CC0 is even more permissive than the MIT license, allowing you to use the code in any manner you want, without any copyright headers, notices, or other attribution.
 
+=======
+# thisistrufaced
+>>>>>>> 5a847d93595e7308c581d0bed8d12545067ed5c2
